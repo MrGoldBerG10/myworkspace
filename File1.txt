@@ -1,9 +1,7 @@
 123
 
+commit test
 456
 
 789.
-Add line: >> File1.txt
-echo Add Line: >> File1.txt
-echo Add line:
 Add Line
